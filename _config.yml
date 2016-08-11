@@ -1,7 +1,7 @@
 name: leveling-up
 favicon: null
 layout_spectrum: 0.06080711237154901
-typography_spectrum: 0.5096484490204602
+typography_spectrum: 0.25433
 title: leveling-up
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#040809'
+    - '#005fa3'
+    - '#aabdcb'
+    - '#8d4e07'
   brandStrength: 0.8900149955879897
   lightness: 0.10431300778873265
   saturation: 0.9376119929365814
