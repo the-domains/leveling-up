@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[leveling-up]]></title>
         <description><![CDATA[leveling-up]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://leveling-up.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 00:45:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Aug 2016 02:33:28 GMT</lastBuildDate>
+        <atom:link href="http://leveling-up.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We rise to the level of our misunderstanding.</p>]]></description>
-            <link>undefinedwe-rise-to-the-level-of-our-misunderstanding/index.html</link>
+            <title><![CDATA[We rise to the level of our misunderstanding.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81685081-5500-4172-b980-8c165d8ed9a6.jpg">]]></description>
+            <link>http://leveling-up.org/we-rise-to-the-level-of-our-misunderstanding/index.html</link>
             <guid isPermaLink="false">1dee7dc5-73fe-4558-bbb9-8aaf3db2f419</guid>
-            <pubDate>Thu, 11 Aug 2016 00:45:41 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2016 02:33:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
