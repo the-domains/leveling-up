@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Discipline and Willpower
-datePublished: '2016-08-25T03:36:04.097Z'
-dateModified: '2016-08-25T03:35:30.185Z'
+datePublished: '2016-08-25T03:36:38.940Z'
+dateModified: '2016-08-25T03:36:12.865Z'
 title: ''
 author: []
 via: {}
