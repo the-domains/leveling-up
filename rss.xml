@@ -4,8 +4,22 @@
         <description><![CDATA[leveling-up]]></description>
         <link>http://leveling-up.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 03:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 03:34:36 GMT</lastBuildDate>
         <atom:link href="http://leveling-up.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Discipline and Willpower</p>]]></description>
+            <link>http://leveling-up.org/discipline-and-willpower/index.html</link>
+            <guid isPermaLink="false">a257df75-9349-4b11-b947-f36b060743b9</guid>
+            <pubDate>Thu, 25 Aug 2016 03:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Logical?</p>]]></description>
+            <link>http://leveling-up.org/logical/index.html</link>
+            <guid isPermaLink="false">6aec4ec2-cc70-424b-8ff5-ab23f75da1e0</guid>
+            <pubDate>Thu, 25 Aug 2016 03:27:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Happyness and Motivation]]></title>
             <description><![CDATA[<p>Happyness and Motivation</p>]]></description>
