@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Happyness and Motivation
-datePublished: '2016-08-25T03:04:21.287Z'
-dateModified: '2016-08-25T03:03:38.218Z'
+datePublished: '2016-08-25T03:06:41.104Z'
+dateModified: '2016-08-25T03:04:53.917Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-25-happyness-and-motivation.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-25-happyness-and-motivation.md
 url: happyness-and-motivation/index.html
 _type: Article
 
