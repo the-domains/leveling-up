@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Discipline and Willpower
-datePublished: '2016-08-25T03:16:31.434Z'
-dateModified: '2016-08-25T03:16:23.258Z'
+datePublished: '2016-08-25T03:34:35.352Z'
+dateModified: '2016-08-25T03:28:33.915Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-25-discipline-and-willpower.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-25-discipline-and-willpower.md
 url: discipline-and-willpower/index.html
 _type: Article
 
