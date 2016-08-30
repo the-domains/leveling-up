@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We rise to the level of our misunderstanding.
-datePublished: '2016-08-28T23:59:41.761Z'
-dateModified: '2016-08-28T23:55:38.895Z'
+datePublished: '2016-08-29T00:01:48.622Z'
+dateModified: '2016-08-28T23:59:51.930Z'
 title: ''
 author: []
 via: {}
