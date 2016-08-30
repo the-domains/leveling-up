@@ -5,14 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We rise to the level of our misunderstanding.
-datePublished: '2016-08-11T02:45:17.981Z'
-dateModified: '2016-08-11T02:45:17.481Z'
+datePublished: '2016-08-28T23:59:41.761Z'
+dateModified: '2016-08-28T23:55:38.895Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-11-we-rise-to-the-level-of-our-misunderstanding.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: we-rise-to-the-level-of-our-misunderstanding/index.html
 _type: Article
